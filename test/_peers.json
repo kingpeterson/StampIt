@@ -1,0 +1,10 @@
+[
+	{
+		"list": "http://www.kprealm.net/test/list.php",
+		"upload": "http://www.kprealm.net/test/upload.php"
+	},
+	{
+		"list": "http://www.yashango.com/test/list.php",
+		"upload": "http://www.yashango.com/test/upload.php"
+	}
+]
